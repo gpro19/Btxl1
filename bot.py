@@ -24,7 +24,7 @@ except ImportError as e:
 
 # Muat variabel lingkungan
 load_dotenv()
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TELEGRAM_BOT_TOKEN = "8319444433:AAEet1Z5TlMERCHWZiPTuuOvbifN5k7Aplo"
 
 # Penyimpanan sementara untuk data pengguna
 user_data = {}
