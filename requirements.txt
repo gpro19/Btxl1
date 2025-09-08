@@ -1,3 +1,5 @@
+python-telegram-bot==13.7  # Or any other version you are using
+flask
 Brotli==1.1.0
 certifi==2025.8.3
 charset-normalizer==3.4.3
